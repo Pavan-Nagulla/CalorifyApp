@@ -1,0 +1,13 @@
+prefix=/Users/pavan/Desktop/Calorify App/venv
+exec_prefix=/Users/pavan/Desktop/Calorify App/venv
+libdir=/Users/pavan/Desktop/Calorify App/venv/lib
+sharedlibdir=/Users/pavan/Desktop/Calorify App/venv/lib
+includedir=/Users/pavan/Desktop/Calorify App/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
