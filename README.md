@@ -1,6 +1,6 @@
 # Calorify App 🤖
 
-## Running Locally 💻
+## To run the program locally 💻
 Follow these steps to set up and run the service locally :
 
 ### Prerequisites
