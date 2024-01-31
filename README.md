@@ -20,8 +20,11 @@ conda create -p venv python==3.10 -y
 ```
 
 # To activate this environment, use
-#     ->    ' conda activate venv/'
+```bash
 
+conda activate venv/
+
+```
 
 Install the required dependencies in the virtual environment :
 
